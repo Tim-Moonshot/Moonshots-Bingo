@@ -73,7 +73,7 @@ I'm not a software developer. In fact, **Moonshots Bingo is the first coding pro
 
 I'm a regular *Moonshots* listener, and the idea started with a simple question: *What would be on a Moonshot Mates bingo card?*
 
-From there, I used AI to research dozens of episode transcripts, identify the recurring phrases and running jokes, develop and play-test the game, and turn the idea into the web app you're looking at now.
+From there, I used ChatGPT Sol 5.6 to research dozens of episode transcripts, identify the recurring phrases and running jokes, develop and play-test the game, and turn the idea into the web app you're looking at now.
 
 And that's really why I'm sharing it.
 
